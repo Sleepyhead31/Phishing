@@ -1,6 +1,7 @@
 flask
 joblib
-sklearn
-json
-numpy
+nltk
+pandas
 requests
+scikit-learn==1.2.2
+streamlit
